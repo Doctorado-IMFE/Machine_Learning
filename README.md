@@ -256,7 +256,7 @@ YOLOv5 procesa una imagen completa en una sola evaluación, lo que le permite de
 - **Post-procesamiento**: Aplica técnicas como la supresión de no máximos para refinar las cajas de detección.
 
 
-<img src="https://www.researchgate.net/publication/362894109/figure/fig1/AS:11431281080615584@1661348431962/YOLO-V5-architecture.png" width="600" height="400">
+<img src="https://www.mdpi.com/sensors/sensors-21-03478/article_deploy/html/images/sensors-21-03478-g004-550.jpg" width="600" height="400">
 
 
 ## Entrenamiento de YOLOv5
@@ -723,7 +723,7 @@ COMET INFO: To upload this offline experiment, run:
     comet upload /content/yolov5/.cometml-runs/e2d1e2a7ae8e4dbb91f1a666802d5448.zip</p>
 
      <p></p>
-**Nota**: Se utiliza los pesos que indica como mejor ubuicado en la ruta "**_runs/train/exp/weights/best.pt_**".
+**Nota**: Se utiliza los pesos que indica como mejor ubicado en la ruta "**_runs/train/exp/weights/best.pt_**".
 
 ---
 ---
